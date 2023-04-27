@@ -1,0 +1,21 @@
+﻿body {
+
+    background-image: url("/Imagenes/Img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-y: bottom;
+}
+
+.form-registro { 
+    margin:auto;
+    width: 30em ;
+    background-color: rgb(150, 150, 150, 0,40);
+    backdrop-filter: blur(50px);
+    border-radius: 20px;
+    padding: 1.5em;
+}
+
+.btn{
+    width: 100%;
+}

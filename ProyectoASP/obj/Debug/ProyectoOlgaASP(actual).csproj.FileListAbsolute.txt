@@ -1,0 +1,118 @@
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\ProyectoOlgaASP(actual).dll.config
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\ProyectoOlgaASP(actual).dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\ProyectoOlgaASP(actual).pdb
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\csc.exe
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\csc.exe.config
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\csc.rsp
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\csi.exe
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\csi.exe.config
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\csi.rsp
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.AppContext.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Console.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.IO.Compression.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Net.Http.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.ValueTuple.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\vbc.exe
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\vbc.exe.config
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\vbc.rsp
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\VBCSCompiler.exe
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\obj\Debug\ProyectoOlgaASP(actual).csproj.AssemblyReference.cache
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\obj\Debug\ProyectoOlgaASP(actual).csproj.CoreCompileInputs.cache
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\obj\Debug\ProyectoOlgaASP(actual).csproj.CopyComplete
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\obj\Debug\ProyectoOlgaASP(actual).dll
+C:\Users\Silvermax\Documents\Visual Studio Project\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\obj\Debug\ProyectoOlgaASP(actual).pdb
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\ProyectoOlgaASP(actual).dll.config
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\ProyectoOlgaASP(actual).dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\ProyectoOlgaASP(actual).pdb
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\csc.exe
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\csc.exe.config
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\csc.rsp
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\csi.exe
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\csi.exe.config
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\csi.rsp
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.Managed.Core.targets
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.AppContext.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Collections.Immutable.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Console.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Globalization.Calendars.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.IO.Compression.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.IO.FileSystem.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Net.Http.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Net.Sockets.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Reflection.Metadata.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.ValueTuple.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Xml.XmlDocument.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Xml.XPath.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\vbc.exe
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\vbc.exe.config
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\vbc.rsp
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\VBCSCompiler.exe
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\roslyn\VBCSCompiler.exe.config
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\obj\Debug\ProyectoOlgaASP(actual).csproj.CoreCompileInputs.cache
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\obj\Debug\ProyectoOlgaASP(actual).csproj.CopyComplete
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\obj\Debug\ProyectoOlgaASP(actual).dll
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\obj\Debug\ProyectoOlgaASP(actual).pdb
+E:\UAT CUS - 8\1. Temas selectos de tratamiento de información\dfgfdgf\ProyectoOlgaASP(actual)\ProyectoOlgaASP(actual)\obj\Debug\ProyectoOlgaASP(actual).csproj.AssemblyReference.cache
